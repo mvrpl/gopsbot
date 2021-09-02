@@ -7,8 +7,7 @@ import (
 	"sync"
 
 	"github.com/pkg/errors"
-
-	"github.com/mvrpl/gopsbot/hid"
+	"mvrpl.dev.br/ps5_bot/hid"
 )
 
 var (
